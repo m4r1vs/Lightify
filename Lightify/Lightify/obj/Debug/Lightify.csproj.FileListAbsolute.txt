@@ -1,0 +1,10 @@
+D:\Projects\Lightify\Lightify\Lightify\bin\Debug\Lightify.exe.config
+D:\Projects\Lightify\Lightify\Lightify\bin\Debug\Lightify.exe
+D:\Projects\Lightify\Lightify\Lightify\bin\Debug\Lightify.pdb
+D:\Projects\Lightify\Lightify\Lightify\obj\Debug\Lightify.csprojAssemblyReference.cache
+D:\Projects\Lightify\Lightify\Lightify\obj\Debug\Lightify.Properties.Resources.resources
+D:\Projects\Lightify\Lightify\Lightify\obj\Debug\Lightify.csproj.GenerateResource.cache
+D:\Projects\Lightify\Lightify\Lightify\obj\Debug\Lightify.csproj.CoreCompileInputs.cache
+D:\Projects\Lightify\Lightify\Lightify\obj\Debug\Lightify.exe
+D:\Projects\Lightify\Lightify\Lightify\obj\Debug\Lightify.pdb
+D:\Projects\Lightify\Lightify\Lightify\obj\Debug\Lightify.Lightify.resources
